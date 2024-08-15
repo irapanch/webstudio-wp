@@ -303,7 +303,7 @@ img{
   	min-height: 432px;
 	padding-top: 112px;
 	padding-bottom: 112px;
-	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/mob-hero.jpg);
+	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/mob-hero.jpg);
 	background-color: var(--hero-background-color);
 	background-size: cover;
 	background-repeat: no-repeat; 
@@ -313,7 +313,7 @@ img{
 screen and (min-resolution: 192dpi)  and (max-width: 767px),
 screen and (min-resolution: 2dppx)  and (max-width: 767px) {
   .hero-body {
-    background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/mob-hero@2x.jpg);
+    background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/mob-hero@2x.jpg);
   }
 }
 
@@ -902,14 +902,14 @@ margin-bottom: 72px;
 	/* <!--====== HERO tablet=================== --> */
 	.hero-body{
 		max-width: 1157px;
-		background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/tabl-hero.jpg);
+		background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/tabl-hero.jpg);
 		min-height: 436px;
 	}
 	@media screen and (min-device-pixel-ratio: 2) and (min-width: 768px),
 	screen and (min-resolution: 192dpi)  and (min-width: 768px),
 	screen and (min-resolution: 2dppx)  and (min-width: 768px) {
   	.hero-body {
-    	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/tabl-hero@2x.jpg);
+    	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/tabl-hero@2x.jpg);
  	 }
 	}
 
@@ -1031,13 +1031,13 @@ margin-bottom: 72px;
 	min-height: 600px;
 	padding-top: 188px;
 	padding-bottom: 188px;
-	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/desk-hero.jpg);
+	background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/desk-hero.jpg);
 }
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1158px),
 screen and (min-resolution: 192dpi)  and (min-width: 1158px),
 screen and (min-resolution: 2dppx)  and (min-width: 1158px) {
   .hero-body {
-    background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(../images/hero/desk-hero1@2x.jpg);
+    background-image: linear-gradient( var(--hero-background-color), var(--hero-background-color)), url(https://irapanch.github.io/webstudio-wp/wp-content/themes/web_https://irapanch.github.io/webstudio-wp/assets/images/hero/desk-hero1@2x.jpg);
   }
 }
 .hero-title{
